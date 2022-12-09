@@ -1,0 +1,11 @@
+Package: MLAclass
+Type: Package
+Title: Machine Learning algorithms for multi-class classification
+Version: 0.1.0
+Author: Sanghee Kim
+Maintainer: sk2689@cornell.edu
+Description: This package contains the functions that is used to fit machine learning algorithms to high frequency data.
+ML algorithms are elastic net penalized logistic regression, gradient boosting, random forest, and feed-forward neural network.
+License: 
+Encoding: UTF-8
+LazyData: true
